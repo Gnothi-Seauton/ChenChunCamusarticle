@@ -51,6 +51,15 @@
 <a href="https://github.com/ChenChunCamus/article/blob/master/2019/粉红狂潮与体制外的极权主义.md
 " title = "1915">粉红狂潮与体制外的极权主义</a> 
 
+<a href="https://github.com/Gnothi-Seauton/article/blob/master/2019/八月浮沉.md
+" title = "1916">八月浮沉</a> 
+
+<a href="https://github.com/Gnothi-Seauton/article/blob/master/2019/以言说对抗恐怖.md
+" title = "1917">以言说对抗恐怖</a> 
+
+<a href="https://github.com/Gnothi-Seauton/article/blob/master/2019/政治认知主义与政治行为主义——对韩乾的一个回应.md
+" title = "1918">政治认知主义与政治行为主义——对韩乾的一个回应</a> 
+
 <h3>2018</h3>
 
 <a href="https://github.com/ChenChunCamus/article/blob/master/2018/大陆自由派在台湾（一）：口炮党领袖.md
