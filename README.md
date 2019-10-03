@@ -60,6 +60,9 @@
 <a href="https://github.com/Gnothi-Seauton/article/blob/master/2019/政治认知主义与政治行为主义——对韩乾的一个回应.md
 " title = "1918">政治认知主义与政治行为主义——对韩乾的一个回应</a> 
 
+<a href="https://github.com/Gnothi-Seauton/article/blob/master/2019/从对%23MeToo的三波批评看公共文化的生成.md
+" title = "1919">从对#MeToo的三波批评看公共文化的生成</a> 
+
 <h3>2018</h3>
 
 <a href="https://github.com/ChenChunCamus/article/blob/master/2018/大陆自由派在台湾（一）：口炮党领袖.md
